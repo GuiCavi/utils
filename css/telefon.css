@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'TelefonRegular';
+  src: url('../fonts/telefon/telefon-black-webfont.eot');
+  src: url('../fonts/telefon/telefon-black-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/telefon/telefon-black-webfont.woff') format('woff'),
+       url('../fonts/telefon/telefon-black-webfont.ttf') format('truetype'),
+       url('../fonts/telefon/telefon-black-webfont.svg#telefonregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+	
